@@ -1,0 +1,7 @@
+// Loading the db (After copy the file into workbench and )
+mysql -u username -ppassword db-name<db-name.sql
+
+mysql -u root -proot mfin_db<db_name.sql
+
+//BackUp
+mysql -u username -ppassword db_name>db_name.sql
